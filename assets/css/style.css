@@ -1,0 +1,9 @@
+.debug [class*="col-"] {
+  background-color: rgba(238, 11, 11, .1);
+  border: 1px solid black;
+}
+
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
